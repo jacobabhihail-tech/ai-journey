@@ -34,3 +34,11 @@ This repository tracks my step-by-step journey to become a **Python AI Engineer*
 - Scikit-learn (later for ML)
 
 ## 📂 Project Structure
+
+## Sales Comparison Plot
+
+![Sales Plot](sales_comparison.png)
+
+##  Survival rate bar chart
+
+![Survivor Rate chart](Survival_Rate.png)
