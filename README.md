@@ -1,44 +1,79 @@
-# AI Journey 🚀 (Ashu)
+# AI Journey — Becoming a Python AI Engineer  
+Author: Ashu  
 
-This repository tracks my step-by-step journey to become a **Python AI Engineer**.
+This repository documents my structured journey toward becoming a Python AI Engineer. The focus is on building strong data foundations, analytical thinking, and practical problem-solving skills.
 
-## ✅ Phase 1: Data Mastery (NumPy + Pandas + EDA)
-**Goal:** Become strong in data handling, cleaning, analysis, and visualization.
+---
 
-### Week 1 (Days 1–7)
-- Day 1: Environment setup (venv, Jupyter, VS Code) + Git repo
-- Day 2: NumPy arrays, slicing, reshape, broadcasting
-- Day 3: NumPy statistics + boolean masking
-- Day 4: Pandas Series/DataFrame + reading CSV/Excel/JSON
-- Day 5: Filtering, sorting, groupby
-- Day 6: Missing values, duplicates, type conversion
-- Day 7: Mini EDA notebook
+## Phase 1: Data Mastery  
+Objective: Develop expertise in data handling, cleaning, exploratory data analysis (EDA), and visualization.
 
-### Week 2 (Days 8–15): EDA + Visualization
-- Day 8: Matplotlib basics (line/bar/hist)55
-- Day 9: Seaborn basics (heatmap, countplot)
-- Day 10: Correlation, outliers
-- Day 11: Feature engineering basics (new columns)
-- Day 12: EDA on Titanic dataset
-- Day 13: EDA on Netflix dataset
-- Day 14: Write clean README with charts
-- Day 15: Finalize Project 1
+---
 
-## 🛠️ Tech Stack
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- Scikit-learn (later for ML)
+## Week 1 (Days 1–7): Foundations (NumPy + Pandas)
 
-## 📂 Project Structure
+Focus: Core data manipulation and analysis skills
 
-## Sales Comparison Plot
+- Day 1: Environment setup (venv, Jupyter Notebook, VS Code) and GitHub repository initialization  
+- Day 2: NumPy arrays, slicing, reshaping, broadcasting  
+- Day 3: NumPy statistics, aggregations, boolean masking  
+- Day 4: Pandas Series and DataFrame, reading CSV/Excel/JSON  
+- Day 5: Filtering, sorting, groupby operations  
+- Day 6: Handling missing values, duplicates, and data type conversion  
+- Day 7: Mini EDA project (data cleaning and extracting insights)
 
+---
+
+## Week 2 (Days 8–15): EDA and Visualization
+
+Focus: Identifying patterns, relationships, and feature importance
+
+- Day 8: Matplotlib basics (line plot, bar plot, histogram)  
+- Day 9: Seaborn fundamentals  
+  - countplot — Category frequency  
+  - barplot — Average per category  
+  - heatmap — Correlation analysis  
+  - boxplot — Outliers and spread  
+  - histplot — Distribution analysis  
+  - scatterplot — Numeric relationship  
+- Day 10: Correlation deep dive and outlier detection  
+- Day 11: Feature engineering basics (creating derived features)  
+- Day 12: Full EDA — Titanic dataset  
+- Day 13: Full EDA — Netflix dataset  
+- Day 14: Documentation and visualization reporting  
+- Day 15: Finalize Project 1 (Complete EDA Case Study)
+
+---
+
+## Tech Stack
+
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+- Git and GitHub  
+- Scikit-learn (Next Phase: Machine Learning)
+
+---
+
+## Sample Visualizations
+
+### Sales Comparison Plot
 ![Sales Plot](sales_comparison.png)
 
-##  Survival rate bar chart
+### Survival Rate by Class
+![Survival Rate Chart](Survival_Rate.png)
 
-![Survivor Rate chart](Survival_Rate.png)
+---
+
+## Purpose of This Repository
+
+This project demonstrates:
+
+- Structured and consistent learning  
+- Strong data analysis fundamentals  
+- Practical implementation through mini projects  
+- Clear documentation and version control  
+
