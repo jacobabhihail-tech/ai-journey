@@ -38,7 +38,7 @@ Focus: Identifying patterns, relationships, and feature importance
   - scatterplot — Numeric relationship  
 - Day 10: - Day 10: Correlation analysis, IQR-based outlier detection, skewness analysis, and statistical impact comparison (mean vs median)
 - Day 11: Feature engineering basics (creating derived features)  
-- Day 12: Full EDA — Titanic dataset  
+- Day 12: Full EDA — Titanic dataset  (Day 12 – Exploratory Data Analysis on Titanic Dataset)
 - Day 13: Full EDA — Netflix dataset  
 - Day 14: Documentation and visualization reporting  
 - Day 15: Finalize Project 1 (Complete EDA Case Study)
