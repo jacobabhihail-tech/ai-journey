@@ -36,7 +36,7 @@ Focus: Identifying patterns, relationships, and feature importance
   - boxplot — Outliers and spread  
   - histplot — Distribution analysis  
   - scatterplot — Numeric relationship  
-- Day 10: Correlation deep dive and outlier detection  
+- Day 10: - Day 10: Correlation analysis, IQR-based outlier detection, skewness analysis, and statistical impact comparison (mean vs median)
 - Day 11: Feature engineering basics (creating derived features)  
 - Day 12: Full EDA — Titanic dataset  
 - Day 13: Full EDA — Netflix dataset  
