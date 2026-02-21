@@ -75,7 +75,7 @@ Focus: Identifying patterns, relationships, and feature importance
 ![Sales Plot](sales_comparison.png)
 
 ### Survival Rate by Class
-![Survival Rate Chart](Survival_Rate.png)
+![Survival Rate Chart](notebooks/Survival_Rate.png)
 
 Key Insight:
 Gender was the strongest predictor of survival.
