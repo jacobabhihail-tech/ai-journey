@@ -7,6 +7,7 @@ This repository documents my structured journey toward becoming a Python AI Engi
 
 ## Phase 1: Data Mastery  
 Objective: Develop expertise in data handling, cleaning, exploratory data analysis (EDA), and visualization.
+Emphasis on understanding data behavior before building machine learning models.
 
 ---
 
@@ -38,8 +39,18 @@ Focus: Identifying patterns, relationships, and feature importance
   - scatterplot — Numeric relationship  
 - Day 10: - Day 10: Correlation analysis, IQR-based outlier detection, skewness analysis, and statistical impact comparison (mean vs median)
 - Day 11: Feature engineering basics (creating derived features)  
-- Day 12: Full EDA — Titanic dataset  (Day 12 – Exploratory Data Analysis on Titanic Dataset)
-- Day 13: Full EDA — Netflix dataset  
+- Day 12: Full Exploratory Data Analysis — Titanic Dataset  
+  - Survival analysis  
+  - Feature relationship exploration (Sex, Class, Age, Fare, Embarked)  
+  - Distribution analysis and pattern extraction  
+
+- Day 13: Full Exploratory Data Analysis — Netflix Dataset  
+  - Content type distribution (Movies vs TV Shows)  
+  - Year-wise content growth trend  
+  - Country-wise content production  
+  - Ratings distribution analysis  
+  - Genre frequency analysis  
+  - Detection of data quality issues  
 - Day 14: Documentation and visualization reporting  
 - Day 15: Finalize Project 1 (Complete EDA Case Study)
 
@@ -74,6 +85,7 @@ This project demonstrates:
 
 - Structured and consistent learning  
 - Strong data analysis fundamentals  
-- Practical implementation through mini projects  
-- Clear documentation and version control  
+- Practical implementation through real-world EDA case studies  
+- Pattern recognition and feature importance thinking  
+- Clear documentation, structured workflow, and version control  
 
