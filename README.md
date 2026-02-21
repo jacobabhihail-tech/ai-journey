@@ -72,7 +72,7 @@ Focus: Identifying patterns, relationships, and feature importance
 ## Sample Visualizations
 
 ### Sales Comparison Plot
-![Sales Plot](sales_comparison.png)
+![Sales Plot](notebooks/sales_comparison.png)
 
 ### Survival Rate by Class
 ![Survival Rate Chart](notebooks/Survival_Rate.png)
@@ -84,10 +84,10 @@ Gender was the strongest predictor of survival.
 ### Netflix Dataset
 
 #### Movies vs TV Shows
-![Netflix Type Distribution](netflix_type_distribution.png)
+![Netflix Type Distribution](notebooks/netflix_type_distribution.png)
 
 #### Release Year Trend
-![Netflix Release Trend](netflix_release_trend.png)
+![Netflix Release Trend](notebooks/netflix_release_trend.png)
 
 Key Insight:
 Netflix saw aggressive expansion between 2015–2018, followed by moderate decline.
