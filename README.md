@@ -72,10 +72,10 @@ Focus: Identifying patterns, relationships, and feature importance
 ## Sample Visualizations
 
 ### Sales Comparison Plot
-![Sales Plot](notebooks/sales_comparison.png)
+![Sales Plot](notebooks/images/sales_comparison.png)
 
 ### Survival Rate by Class
-![Survival Rate Chart](notebooks/Survival_Rate.png)
+![Survival Rate Chart](notebooks/images/Survival_Rate.png)
 
 Key Insight:
 Gender was the strongest predictor of survival.
@@ -84,10 +84,10 @@ Gender was the strongest predictor of survival.
 ### Netflix Dataset
 
 #### Movies vs TV Shows
-![Netflix Type Distribution](notebooks/netflix_type_distribution.png)
+![Netflix Type Distribution](notebooks/images/netflix_type_distribution.png)
 
 #### Release Year Trend
-![Netflix Release Trend](notebooks/netflix_release_trend.png)
+![Netflix Release Trend](notebooks/images/netflix_release_trend.png)
 
 Key Insight:
 Netflix saw aggressive expansion between 2015–2018, followed by moderate decline.
@@ -101,3 +101,40 @@ This project demonstrates:
 - Pattern recognition and feature importance thinking  
 - Clear documentation, structured workflow, and version control  
 
+# Project 1 — Exploratory Data Analysis Case Study
+
+## Overview
+
+This project demonstrates structured exploratory data analysis (EDA) on real-world datasets.  
+The objective was to extract patterns, identify feature importance, and understand data behavior before applying machine learning models.
+
+Datasets analyzed:
+- Titanic Dataset
+- Netflix Movies and TV Shows Dataset
+
+---
+
+## Key Learnings
+
+- Identified strong predictive features (e.g., Gender and Class in Titanic dataset)
+- Understood skewed distributions and outlier behavior
+- Performed categorical and numerical relationship analysis
+- Detected real-world data quality issues
+- Practiced visual storytelling using Matplotlib and Seaborn
+
+---
+
+## Skills Demonstrated
+
+- Data cleaning and preprocessing
+- Handling missing values
+- Distribution analysis
+- Correlation and categorical comparison
+- Insight extraction from visualizations
+- Professional documentation and Git workflow
+
+---
+
+## Conclusion
+
+This project strengthened foundational data analysis skills and built the analytical thinking required before moving into machine learning modeling.
