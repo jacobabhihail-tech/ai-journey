@@ -1,5 +1,5 @@
 # AI Journey — Becoming a Python AI Engineer  
-Author: Ashu  
+Author: Abhihail Jacob  
 
 This repository documents my structured journey toward becoming a Python AI Engineer. The focus is on building strong data foundations, analytical thinking, and practical problem-solving skills.
 
